@@ -1,2 +1,3 @@
 # hello-world
-First Repo, redone
+First Repo, redone.
+I'm gonna do better this semester, no matter what.
